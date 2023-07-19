@@ -253,11 +253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/clairebain/bootcamp/sideprojects/csharp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "/Users/clairebain/bootcamp/sideprojects/csharp/employee-badge-maker/CatWorx.BadgeMaker.csproj",
       "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "/Users/clairebain/bootcamp/sideprojects/csharp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectPath": "/Users/clairebain/bootcamp/sideprojects/csharp/employee-badge-maker/CatWorx.BadgeMaker.csproj",
       "packagesPath": "/Users/clairebain/.nuget/packages/",
-      "outputPath": "/Users/clairebain/bootcamp/sideprojects/csharp/CatWorx.BadgeMaker/obj/",
+      "outputPath": "/Users/clairebain/bootcamp/sideprojects/csharp/employee-badge-maker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/clairebain/.nuget/NuGet/NuGet.Config"

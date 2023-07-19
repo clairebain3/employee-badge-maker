@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/AcwXJhqXGdcscDr3rrcrLCb8empeYIBpfgJ8+aTbmsujI63JwYDo+WYt5dkv9yxCWOfDiFJHQgNT8kIAYRrA==",
+  "dgSpecHash": "5XvoBCKXcTm0u2ofEc1mjq451KDw223VVRpzq90xXolCzly7v0KvxVw20RNnQ2eE+zbCgwOtyzoiW1CyDJEwcw==",
   "success": true,
-  "projectFilePath": "/Users/clairebain/bootcamp/sideprojects/csharp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+  "projectFilePath": "/Users/clairebain/bootcamp/sideprojects/csharp/employee-badge-maker/CatWorx.BadgeMaker.csproj",
   "expectedPackageFiles": [
     "/Users/clairebain/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/clairebain/.nuget/packages/skiasharp/2.88.0/skiasharp.2.88.0.nupkg.sha512",
